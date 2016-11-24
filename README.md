@@ -10,11 +10,15 @@
 <br>
 <b>Task 1:</b> To fill input field while <b>uploading a text file</b> (text file content Pan No, Name, Date).<br>
 A dumy text file is provided in assets folder & data must always be in that format.
+<br>
 <img src="assets/git_upload/upload.gif" alt="Upload file">
 <hr>
 <br>
 <b>Task 2: Form Validation </b>
 <br>
-<b>Responsiveness of Website: </b><br>
+<hr style="visibility=hidden">
+<b>Responsiveness of Website: </b>
+<br>
+<hr style="visibility=hidden">
 <img src="assets/git_upload/responsive.gif" alt="Responsive website"> 
 <hr>
