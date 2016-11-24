@@ -1,0 +1,106 @@
+.main-details {
+    padding: 2% 6% 2% 6%;
+    margin-top: 4%;
+    border-top : 0.2em solid #ececec;    
+}
+
+.details {
+	background-color: #ededed;
+	padding: 2.5% 2% 2.5% 2%;	
+}
+
+.form-details {
+	margin-top: 4%;
+	background-color: #fff;
+	padding: 2%;
+}
+
+.field-details{
+	border: none;
+	border-bottom: 1px solid #c1c0c0;
+	border-radius: 0;
+	outline: none;
+	width: 90%;
+	margin: 0 0 20px 0;
+	padding: 0;
+	box-shadow: none;
+	box-sizing: content-box;
+	transition: all 0.3s;
+}
+/*	Upload Section  */
+.upload-field {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.fileupload {
+	position: relative;
+	overflow: hidden;
+  	border-radius: 5%; 
+    padding: 1% 18% 1% 18%;
+  	font-size: 1.7em;
+}
+
+.fileupload input.upload {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+
+.upload-field p{
+	margin-top: 5%
+}
+
+.line {
+	border-right: 2px dashed #e6e5e5;
+}
+
+.address-radio {
+  padding-right: 17%;
+}
+
+.submit-button {
+  text-align: center;
+  float: inherit;
+  padding-top: 3.5%;
+}
+
+.submit-button button {
+  padding: 1% 15% 1% 15%;
+  font-size: 2em;
+}
+
+.main-navbar {
+    margin-top: -0.8%;    
+    margin-right: 6%;
+    color: #727272;
+    font-weight: 500;
+    font-size: 1.4em;
+}
+
+.main-navbar ul {
+  margin-top: 0.3em;    
+}
+
+.main-navbar a {
+  color: #727272;
+  font-weight: 500;
+}
+
+hr {
+    margin-top:1.2%;
+    visibility: hidden; 
+}
+
+.responsive {
+    display: none;
+}
+
+.main-navbar i {
+    padding-right: 0.3em;    
+}
